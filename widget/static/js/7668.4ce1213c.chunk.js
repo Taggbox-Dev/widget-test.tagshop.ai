@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkembed_widget=self.webpackChunkembed_widget||[]).push([[7668],{27668:(e,s,t)=>{t.r(s),t.d(s,{default:()=>m});var o=t(72791),a=t(2703),l=t(80184);const r=e=>{const{postTime:s,timeClass:t,authorColor:r,authorNameStyle:m}=e,u=(0,o.useMemo)((()=>(0,a.Sy)(s)),[]),c={color:r,...m};return(0,l.jsx)("div",{className:t,style:c,children:u})},m=(0,o.memo)(r)}}]);
+//# sourceMappingURL=7668.4ce1213c.chunk.js.map
