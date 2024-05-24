@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkembed_widget=self.webpackChunkembed_widget||[]).push([[7668],{27668:(e,s,t)=>{t.r(s),t.d(s,{default:()=>m});var d=t(72791),a=t(2703),c=t(80184);const i=e=>{const{postTime:s,timeClass:t}=e;return(0,c.jsx)("div",{className:t,children:(0,a.Sy)(s)})},m=(0,d.memo)(i)}}]);
+//# sourceMappingURL=7668.daf3d6fc.chunk.js.map
