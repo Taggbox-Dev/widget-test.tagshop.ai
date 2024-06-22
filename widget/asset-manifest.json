@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://widget-test.tagshop.ai/widget/static/css/main.88ad5469.css",
-    "main.js": "https://widget-test.tagshop.ai/widget/static/js/main.38519ab2.js",
+    "main.js": "https://widget-test.tagshop.ai/widget/static/js/main.492471b4.js",
     "static/js/7774.663ce9b5.chunk.js": "https://widget-test.tagshop.ai/widget/static/js/7774.663ce9b5.chunk.js",
     "static/js/4355.057feeb9.chunk.js": "https://widget-test.tagshop.ai/widget/static/js/4355.057feeb9.chunk.js",
     "static/js/3032.bb344444.chunk.js": "https://widget-test.tagshop.ai/widget/static/js/3032.bb344444.chunk.js",
@@ -10,9 +10,9 @@
     "static/js/9031.86d386ed.chunk.js": "https://widget-test.tagshop.ai/widget/static/js/9031.86d386ed.chunk.js",
     "static/js/8454.5f3659a4.chunk.js": "https://widget-test.tagshop.ai/widget/static/js/8454.5f3659a4.chunk.js",
     "static/css/7350.d0941d4c.chunk.css": "https://widget-test.tagshop.ai/widget/static/css/7350.d0941d4c.chunk.css",
-    "static/js/7350.3f25bef9.chunk.js": "https://widget-test.tagshop.ai/widget/static/js/7350.3f25bef9.chunk.js",
+    "static/js/7350.7d623e2f.chunk.js": "https://widget-test.tagshop.ai/widget/static/js/7350.7d623e2f.chunk.js",
     "static/css/8869.61288769.chunk.css": "https://widget-test.tagshop.ai/widget/static/css/8869.61288769.chunk.css",
-    "static/js/8869.70b65e98.chunk.js": "https://widget-test.tagshop.ai/widget/static/js/8869.70b65e98.chunk.js",
+    "static/js/8869.ec6f7468.chunk.js": "https://widget-test.tagshop.ai/widget/static/js/8869.ec6f7468.chunk.js",
     "static/js/339.441a5d51.chunk.js": "https://widget-test.tagshop.ai/widget/static/js/339.441a5d51.chunk.js",
     "static/js/3607.39aab88e.chunk.js": "https://widget-test.tagshop.ai/widget/static/js/3607.39aab88e.chunk.js",
     "static/css/7535.41996f60.chunk.css": "https://widget-test.tagshop.ai/widget/static/css/7535.41996f60.chunk.css",
@@ -132,6 +132,6 @@
   },
   "entrypoints": [
     "static/css/main.88ad5469.css",
-    "static/js/main.38519ab2.js"
+    "static/js/main.492471b4.js"
   ]
 }
