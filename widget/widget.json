@@ -1,0 +1,349 @@
+{
+       "Posts": [
+              {
+                     "createdAt": 1732107031,
+                     "id": 1366935,
+                     "referenceId": 94206660,
+                     "feedId": 263070,
+                     "filterId": 10,
+                     "author": {
+                            "name": "gajanand",
+                            "username": "gajanand",
+                            "picture": "https://ui-avatars.com/api/?name=gajanand&background=000&color=fff&length=1"
+                     },
+                     "image": {
+                            "alt": "Forest Path",
+                            "sizes": {
+                                   "small": "images/forest-400w.jpg",
+                                   "large": "images/forest-1200w.jpg",
+                                   "original": "images/forest-original.jpg"
+                            },
+                            "height": 400,
+                            "width": 400
+                     },
+                     "video": {
+                            "title": "Forest Video Clip",
+                            "sources": {
+                                   "full": "videos/forest.mp4",
+                                   "clip": "videos/clip-forest.mp4"
+                            },
+                            "thumbnail": "images/forest-400w.jpg",
+                            "height": 400,
+                            "width": 400
+                     },
+                     "imageList": [
+                            {
+                                   "id": 531474,
+                                   "alt": "Forest Path",
+                                   "sizes": {
+                                          "small": "images/forest-400w.jpg",
+                                          "large": "images/forest-1200w.jpg",
+                                          "original": "images/forest-original.jpg"
+                                   },
+                                   "height": 400,
+                                   "width": 400,
+                                   "product": [
+                                          {
+                                                 "id": 9140294,
+                                                 "title": "Adidas Classic Backpack",
+                                                 "price": 21.95,
+                                                 "currency": "£",
+                                                 "discount": 10.98,
+                                                 "url": "https://www.adidas.co.uk/classic-3-stripes-backpack/FJ9268.html",
+                                                 "image": "https://cdn.taggbox.com/v7/https%3A%2F%2Fdrive.google.com%2Fthumbnail%3Fid%3D1X4Wrtic6_4QsHMH8FmLJtCD0J8ez1Igp?w=200&func=cover&ci_url_encoded=1",
+                                                 "stock": 1,
+                                                 "hotspot": {
+                                                        "left": 40.92,
+                                                        "top": 70.08
+                                                 }
+                                          }
+                                   ]
+                            }
+                     ],
+                     "networkId": 29,
+                     "content": {
+                            "title": "content title",
+                            "content": "asdfasdf asdfasdf"
+                     },
+                     "link": "",
+                     "type": 4,
+                     "stories":0,
+                     "count": {
+                            "comment": 32,
+                            "like": 4,
+                            "sentiment": 0
+                     },
+                     "share": {
+                            "url": "154bc7beb9581ec52598d6b832f33310:77d5c2732cb78e617204b6d283d48f1346c8a1c64e0999f117554c6ebd714f69c9ee7a90c301dfe4480673dcccd1982101fabc064eb14174b1e54e5eca852efec2a5b52d6f9449835429419935728387",
+                            "facebook": "https://www.facebook.com/sharer.php?u=&description=asdfasdf%20asdfasdf",
+                            "google": "https://plus.google.com/share?url=",
+                            "twitter": "https://twitter.com/intent/tweet?text=asdfasdf%20asdfasdf&url=",
+                            "linkedin": "https://www.linkedin.com/shareArticle?mini=true&url=&summary=asdfasdf%20asdfasdf",
+                     },
+                     "cta": {
+                            "status": 0,
+                            "color": "",
+                            "background": "",
+                            "url": "https://www.google.com",
+                            "text": "Click"
+                     },
+                     "rating": null
+              }
+       ],
+       "CardStyle": {
+              "minimumWidth": 344,
+              "inheritStyles": 1,
+              "timeStatus": 1,
+              "actionStatus": 1,
+              "shareStatus": 1,
+              "content": {
+                     "trimcontent": 0,
+                     "status": 0
+              },
+              "viewCountStatus": 1,
+              "icon": {
+                     "color": "#343434",
+                     "default": 1,
+                     "status": 1
+              },
+              "author": {
+                     "status": 0,
+                     "color": "#545454"
+              },
+              "globalCTA": {
+                     "status": 0,
+                     "color": "#FFFFFF",
+                     "background": "#000000",
+                     "url": "https://www.google.com",
+                     "text": "CTA POST"
+              },
+              "style": {
+                     "background": "#454544",
+                     "color": "#ffffff",
+                     "size": 14,
+                     "font": "inter",
+                     "variant": "regular",
+                     "fontLink": "inter_font",
+                     "radius": 10,
+                     "ratio": 100,
+                     "padding": 15,
+                     "textDecoration": 1,
+                     "textAlign": 2
+              },
+              "hashtag": {
+                     "color": "#23234",
+                     "colorStatus": 1,
+                     "background": "#434534",
+                     "backgroundStatus": 1
+              }
+       },
+       "ThemeStyle": {
+              "autoScrollStatus": 0,
+              "playFullVideo": 0,
+              "loadMoreStatus": 1,
+              "sufflePost": 1,
+              "interactive": 1,
+              "bestFit": 1,
+              "slide": {
+                     "slideDelay": 30,
+                     "slideDuration": 43
+              },
+              "column": {
+                     "desktop": 5,
+                     "mobile": 2
+              },
+              "row": 4,
+              "autoPlay": 1,
+              "autoSlide": 1,
+              "modal": {
+                     "action": 1,
+                     "mobile": 0,
+                     "duration": 1
+              },
+              "css": {
+                     "status": 0,
+                     "code": ".tb_icon{\n  color:'#2b2b2b'\n}"
+              }
+       },
+       "Background": {
+              "color": "#545454",
+              "url": "images/forest-1200w.jpg",
+              "width": 1200,
+              "height": 1000,
+              "status": 0
+       },
+       "Banner": {
+              "logo": {
+                     "url": "https://cloud.tagbox.com/react-app/media/banner/logo_bnr-2.svg",
+                     "height": 100,
+                     "width": 100,
+                     "alt": "name"
+              },
+              "social": {
+                     "facebook": "",
+                     "instagram": "",
+                     "twitter": "",
+                     "icons": "1,2,3",
+                     "status": 0,
+                     "style": {
+                            "size": 12,
+                            "color": "#453433",
+                            "defaultColor": 1,
+                     }
+              },
+              "title": {
+                     "content": "#MYExperience to get 10% off",
+                     "style": {
+                            "size": 12,
+                            "color": "#453433",
+                            "font": "Homenaje",
+                            "variant": "400",
+                            "fontLink": "homenaje"
+                     }
+              },
+              "subTitle": {
+                     "content": "Share your experience using",
+                     "style": {
+                            "size": 12,
+                            "color": "#453433",
+                            "font": "Homenaje",
+                            "variant": "400",
+                            "fontLink": "homenaje"
+                     }
+              },
+              "type": 2,
+              "height": 100,
+              "background": "#454545",
+              "position": 1,
+              "status": 0
+       },
+       "CustomBanner": {
+              "url": "https://cloud.tagbox.com/media/84205/160374/banner/4f741a8d6cb64796ada2aa0335547647.jpeg",
+              "width": 1200,
+              "height": 100,
+              "status": 0
+       },
+       "ProductSetting": {
+              "CatalogueTitle": {
+                     "fontLink": "Poppins",
+                     "font": "Poppins",
+                     "varient": "600",
+                     "size": 25,
+                     "color": "#ff00bb",
+                     "text": "Featured Product",
+                     "id": 1760
+              },
+              "ProductTitle": {
+                     "fontLink": "Inter",
+                     "font": "Inter",
+                     "varient": "regular",
+                     "size": 16,
+                     "color": "#000000"
+              },
+              "Price": {
+                     "fontLink": "Open+Sans",
+                     "font": "Open Sans",
+                     "varient": "regular",
+                     "size": 18,
+                     "color": "#313030"
+              },
+              "Button": {
+                     "fontLink": "Racing+Sans+One",
+                     "font": "Racing Sans One",
+                     "varient": "500",
+                     "size": 15,
+                     "background": "#313030",
+                     "color": "#ffffff",
+                     "text": "Buy Now",
+                     "newTab": 2
+              },
+              "Hotspot": {
+                     "type": 1,
+                     "background": "#0099ff",
+                     "color": "#ff1100",
+                     "status": 1
+              }
+       },
+       "SnapUp": {
+              "QrCode": {
+                     "text": "Scan To Share Scan To",
+                     "barcode": "https://cloud.tagbox.com/media/20560/155498/onsiteuploader/barcode/155498-1717158761-onsite-barcode.jpg",
+                     "status": 0,
+                     "position": 3,
+                     "style": {
+                            "fontLink": "Open+Sans",
+                            "font": "Open Sans",
+                            "varient": "regular",
+                            "size": 18,
+                            "color": "#FFFFFF",
+                            "background": "#534454"
+                     },
+              },
+              "Form": {
+                     "logo": {
+                            "url": "https://cloud.tagbox.com/react-app/media/banner/logo_bnr-2.svg",
+                            "height": 100,
+                            "width": 100,
+                            "alt": "name"
+                     },
+                     "title": "Submit your post",
+                     "subTitle": "You can share your post here",
+                     "termsLink": "https://taggbox.com/on-site-uploads-content-rights",
+                     "slug": "onsite-upload",
+                     "background": "#ffffff",
+                     "url": "https://cloud.tagbox.com/react-app/media/bg.svg",
+                     "language": "english",
+                     "type": 1,
+                     "button": {
+                            "text": "Submit post",
+                            "backgournd": "#000",
+                            "color": "#fff"
+                     },
+                     "successText": "Thanks for the submission. Your post will live on the website after approval.",
+              }
+       },
+       "ReviewFilter": [
+              {
+                     "networkId": 29,
+                     "color": "#131921",
+                     "reviewsCount": {
+                            "total": 8,
+                            "average": 3.4
+                     },
+                     "link": "https://www.amazon.in/GIVA-Sterling-Adjustable-Certificate-Authenticity/product-reviews/B08VJGC5KN/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviewsdp/"
+              },
+              {
+                     "networkId": 29,
+                     "color": "#131921",
+                     "reviewsCount": {
+                            "total": 8,
+                            "average": 3.4
+                     },
+                     "link": "https://www.amazon.in/GIVA-Sterling-Adjustable-Certificate-Authenticity/product-reviews/B08VJGC5KN/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviewsdp/"
+              }
+       ],
+       "WebFilters": {
+              "type": 3,
+              "status": 0,
+              "filters": [
+                     {
+                            "networkId": 29,
+                            "color": "#131921"
+                     },
+                     {
+                            "networkId": 2,
+                            "color": "#131921"
+                     }
+              ]
+       },
+       "ThemeInfo": {
+              "id": 23,
+              "gtmStatus": 0,
+              "ownerId": 34345,
+              "wallId": 655,
+              "planId": 43,
+              "userType": "tagembed",
+              "isWidget": 0,
+              "branding": 1
+       }
+}
