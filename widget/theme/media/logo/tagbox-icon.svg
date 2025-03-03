@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 141.4 141.4" height="100" width="100">
+   <defs>
+      <style>.logo_cls-1{fill:url(#linear-gradient);}.logo_cls-2{fill:url(#linear-gradient-2);}.logo_cls-3{fill:#fff;}</style>
+      <linearGradient id="linear-gradient" x1="70.7" y1="-1086.47" x2="70.7" y2="-945.07" gradientTransform="matrix(1, 0, 0, -1, 0, -945.07)" gradientUnits="userSpaceOnUse">
+         <stop offset="0" stop-color="#eb5c99"/>
+         <stop offset="0.77" stop-color="#613983"/>
+      </linearGradient>
+      <linearGradient id="linear-gradient-2" x1="70.6" y1="-1078.17" x2="70.6" y2="-953.37" xlink:href="#linear-gradient"/>
+   </defs>
+   <g id="logo_icon_group_2" data-name="Layer 2">
+      <g id="logo_icon_group" data-name="Layer 1">
+        <path class="logo_cls-1" d="M70.7,141.4a70.7,70.7,0,1,1,70.7-70.7A70.82,70.82,0,0,1,70.7,141.4Zm0-135.7a65,65,0,1,0,65,65A65,65,0,0,0,70.7,5.7Z"/>
+        <path class="logo_cls-2" d="M133,70.7A62.4,62.4,0,1,1,70.6,8.3,62.42,62.42,0,0,1,133,70.7Z"/>
+        <polygon class="logo_cls-3" points="115.4 45.3 26 45.3 26 73.2 51.9 73.2 51.9 107.2 90.5 73.2 115.4 73.2 115.4 45.3"/>
+      </g>
+   </g>
+</svg>

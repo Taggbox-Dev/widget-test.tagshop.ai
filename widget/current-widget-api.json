@@ -1,0 +1,503 @@
+[
+       {
+              "id": 16780376,
+              "referenceId": 1012843769,
+              "feedId": 416312,
+              "stories": 0,
+              "imageList": [],
+              "type": 2,
+              "highlight": 0,
+              "pin": 0,
+              "tags": "",
+              "createdAt": 1734365859,
+              "mediaUrl": "",
+              "mediaClip": "",
+              "isAudio": 0,
+              "slackMember": "",
+              "filterId": 23,
+              "feedFilter": 23,
+              "mediaHeight": "1800",
+              "mediaWidth": "1440",
+              "font": {
+                     "font": 4,
+                     "fontsize": 14,
+                     "cardColor": "#fafafa",
+                     "authorColor": "#000000",
+                     "fontColor": "#000000",
+                     "iconColor": "#000"
+              },
+              "file": "https://scontent-iad3-1.cdninstagram.com/v/t51.29350-15/470369521_446059371888236_2945741488856966320_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=1-7&_nc_sid=18de74&_nc_ohc=1VXeL8DYY58Q7kNvgEf8snT&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=AeLv51BH7vhNSv8TBVrivP4&oh=00_AYAotUQ-mw3XzoBxRLfLFOGz-BjvtlWB3rJ9gnK4EMvWBA&oe=676645EE",
+              "filename": "https://scontent-iad3-1.cdninstagram.com/v/t51.29350-15/470369521_446059371888236_2945741488856966320_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=1-7&_nc_sid=18de74&_nc_ohc=1VXeL8DYY58Q7kNvgEf8snT&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=AeLv51BH7vhNSv8TBVrivP4&oh=00_AYAotUQ-mw3XzoBxRLfLFOGz-BjvtlWB3rJ9gnK4EMvWBA&oe=676645EE",
+              "postFileNew": "https://scontent-iad3-1.cdninstagram.com/v/t51.29350-15/470369521_446059371888236_2945741488856966320_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=1-7&_nc_sid=18de74&_nc_ohc=1VXeL8DYY58Q7kNvgEf8snT&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=AeLv51BH7vhNSv8TBVrivP4&oh=00_AYAotUQ-mw3XzoBxRLfLFOGz-BjvtlWB3rJ9gnK4EMvWBA&oe=676645EE",
+              "postFile": "https://scontent-iad3-1.cdninstagram.com/v/t51.29350-15/470369521_446059371888236_2945741488856966320_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=1-7&_nc_sid=18de74&_nc_ohc=1VXeL8DYY58Q7kNvgEf8snT&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=AeLv51BH7vhNSv8TBVrivP4&oh=00_AYAotUQ-mw3XzoBxRLfLFOGz-BjvtlWB3rJ9gnK4EMvWBA&oe=676645EE",
+              "mediaFile": "",
+              "optmizedImg": "https://cloud.tagbox.com/app/assets/common/default.png",
+              "embed": "",
+              "network": {
+                     "id": 2,
+                     "name": "Instagram",
+                     "color": "#000",
+                     "icon": "instagram"
+              },
+              "hideContent": 0,
+              "content": "",
+              "contentTitle": "",
+              "hash": {
+                     "hashString": ""
+              },
+              "instaHash": 1,
+              "postAuthor": 1,
+              "author": {
+                     "name": "nataliya_tali",
+                     "username": "nataliya_tali",
+                     "picture": "https://cdn.taggbox.com/v7/https%3A%2F%2Fcloud.tagbox.com%2Fmedia%2F1630329%2F2138986%2F416312%2F131023442_305931504038669_7933781050988046084_n.jpg?w=50&func=cover&ci_url_encoded=1",
+                     "isInstaUser": false,
+                     "errorPic": "https://ui-avatars.com/api/?name=nataliyatali&background=000&color=fff&length=1"
+              },
+              "timePost": 1,
+              "cardWidth": 300,
+              "link": "https://www.instagram.com/p/DDpUlwCM2ZW/",
+              "socialAction": 0,
+              "rating": 0,
+              "cta": {
+                     "status": 0,
+                     "color": "",
+                     "background": "",
+                     "url": "javascript:void(0);",
+                     "text": ""
+              },
+              "share": {
+                     "status": 0,
+                     "facebook": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.instagram.com%2Fp%2FDDpUlwCM2ZW%2F&description=",
+                     "google": "https://plus.google.com/share?url=https%3A%2F%2Fwww.instagram.com%2Fp%2FDDpUlwCM2ZW%2F",
+                     "twitter": "https://twitter.com/intent/tweet?text=&url=https%3A%2F%2Fwww.instagram.com%2Fp%2FDDpUlwCM2ZW%2F",
+                     "linkedin": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.instagram.com%2Fp%2FDDpUlwCM2ZW%2F&summary="
+              },
+              "postId": "aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0REcFVsd0NNMlpXLw==",
+              "like_count": 191,
+              "interactiveCount": 0,
+              "comment_count": 14,
+              "ugc_products": [
+                     {
+                            "id": 60450,
+                            "wall_id": 141394,
+                            "product_owner": 20560,
+                            "post_id": 1561734098,
+                            "feedId": 236595,
+                            "ugc_product": 9140290,
+                            "order_no": 0,
+                            "status": 0,
+                            "stock": 1,
+                            "hotspot": "left:63.92163623017551%;top:54.076338179614886%;",
+                            "tags": "",
+                            "UgcProduct": {
+                                   "id": 9140290,
+                                   "shopify_shop_id": "",
+                                   "product_title": "IKEA Buskbo Armchair",
+                                   "tags": "",
+                                   "shopify_product_id": "70434311",
+                                   "shopify_product_type": "furniture",
+                                   "product_sku": "704.343.11",
+                                   "product_price": "99",
+                                   "price_currency_symbol": "£",
+                                   "product_discount": "99",
+                                   "product_url": "https://www.ikea.com/gb/en/p/buskbo-armchair-rattan-70434311/",
+                                   "product_image": "https://cdn.taggbox.com/v7/https%3A%2F%2Fdrive.google.com%2Fthumbnail%3Fid%3D1ZRdbAcpY585JqSZA390Vik9Zoqx-gOgc?w=200&func=cover&ci_url_encoded=1",
+                                   "filename": "",
+                                   "product_owner": 20560,
+                                   "product_status": 1,
+                                   "discount_currency_symbol": "£",
+                                   "price_currency": "GBP",
+                                   "discount_currency": "GBP",
+                                   "created_from": "shopify",
+                                   "createdAt": "2024-10-18T18:34:11.000Z",
+                                   "updatedAt": "2024-10-18T13:04:11.000Z"
+                            },
+                            "hotspot_cordinates": {
+                                   "left": "63.92163623017551%",
+                                   "top": "54.076338179614886%"
+                            }
+                     },
+                     {
+                            "id": 60449,
+                            "wall_id": 141394,
+                            "product_owner": 20560,
+                            "post_id": 1561734098,
+                            "feedId": 236595,
+                            "ugc_product": 9140294,
+                            "order_no": 0,
+                            "status": 0,
+                            "stock": 1,
+                            "hotspot": "left:40.92388282136264%;top:70.08711643876534%;",
+                            "tags": "",
+                            "UgcProduct": {
+                                   "id": 9140294,
+                                   "shopify_shop_id": "",
+                                   "product_title": "Adidas Classic Backpack",
+                                   "tags": "",
+                                   "shopify_product_id": "H34627",
+                                   "shopify_product_type": "bags",
+                                   "product_sku": "FJ9268",
+                                   "product_price": "21.95",
+                                   "price_currency_symbol": "£",
+                                   "product_discount": "10.98",
+                                   "product_url": "https://www.adidas.co.uk/classic-3-stripes-backpack/FJ9268.html",
+                                   "product_image": "https://cdn.taggbox.com/v7/https%3A%2F%2Fdrive.google.com%2Fthumbnail%3Fid%3D1X4Wrtic6_4QsHMH8FmLJtCD0J8ez1Igp?w=200&func=cover&ci_url_encoded=1",
+                                   "filename": "",
+                                   "product_owner": 20560,
+                                   "product_status": 1,
+                                   "discount_currency_symbol": "£",
+                                   "price_currency": "GBP",
+                                   "discount_currency": "GBP",
+                                   "created_from": "shopify",
+                                   "createdAt": "2024-10-18T18:34:11.000Z",
+                                   "updatedAt": "2024-10-18T13:04:11.000Z"
+                            },
+                            "hotspot_cordinates": {
+                                   "left": "40.92388282136264%",
+                                   "top": "70.08711643876534%"
+                            }
+                     }
+              ]
+       },
+}
+]
+
+
+"reviewFilters": {
+[
+       {
+              "Network": {
+                     "id": 34,
+                     "name": "Amazon",
+                     "icon": "fa-amazon",
+                     "color": "#131921",
+                     "totalReviews": 8,
+                     "averageReviews": 3.4,
+                     "link": "https://www.amazon.in/GIVA-Sterling-Adjustable-Certificate-Authenticity/product-reviews/B08VJGC5KN/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviewsdp/"
+              }
+       },
+       {
+              "Network": {
+                     "id": 37,
+                     "name": "AliExpress",
+                     "icon": "fa-aliexpress",
+                     "color": "#E52F20",
+                     "totalReviews": 6,
+                     "averageReviews": 5,
+                     "link": "https://www.aliexpress.com/item/1005004651037749.html"
+              }
+       }
+]
+}
+
+"wall": {
+       "Wall": {
+              "id": 2138986,
+              "name": "Review Hub 123",
+              "status": 1,
+              "owner": 1630329,
+              "url": "review-hub-123",
+              "google_tacking_status": 0,
+              "google_tacking_code": "",
+              "embedTags": "",
+              "dataLimit": 0
+       },
+       "Background": {
+              "image": "",
+              "transparent": 1,
+              "color": "#ffffff"
+       },
+       "ProductSetting": {
+              "CatalogueTitle": {
+                     "fontLink": "Poppins",
+                     "font": "Poppins",
+                     "varient": "600",
+                     "size": 25,
+                     "color": "#ff00bb",
+                     "text": "Featured Product",
+                     "id": 1760
+              },
+              "ProductTitle": {
+                     "fontLink": "Inter",
+                     "font": "Inter",
+                     "varient": "regular",
+                     "size": 16,
+                     "color": "#000000"
+              },
+              "Price": {
+                     "fontLink": "Open+Sans",
+                     "font": "Open Sans",
+                     "varient": "regular",
+                     "size": 18,
+                     "color": "#313030"
+              },
+              "Button": {
+                     "fontLink": "Racing+Sans+One",
+                     "font": "Racing Sans One",
+                     "varient": "500",
+                     "size": 15,
+                     "background": "#313030",
+                     "color": "#ffffff",
+                     "text": "Buy Now",
+                     "newTab": 2
+              },
+              "Hotspot": {
+                     "type": 1,
+                     "background": "#0099ff",
+                     "color": "#ff1100",
+                     "status": 1
+              }
+       }
+       "Banner": {
+              "social_icon_color_status": 0,
+              "social_icon_color": "",
+              "social_icon_size": "24",
+              "social_icons": "1,2,3",
+              "social_icon_status": 0,
+              "status": 1,
+              "banner_position": 1,
+              "bannerType": 6,
+              "banner_height": "140",
+              "background_color": "#fafafa",
+              "background_color_two": "#4179ff",
+              "subTitle_font_size": "0",
+              "subTitle_font_color": "#ffffff",
+              "subtitle_link_font": "Default",
+              "subtitle_css_font": "Default",
+              "subtitle_font_varient": "",
+              "title_font_color": "#000000",
+              "title_font_size": "24",
+              "title_link_font": "Default",
+              "title_css_font": "Default",
+              "title_font_varient": "None",
+              "transparent": "0",
+              "facebook_url": "",
+              "instagram_url": "",
+              "twitter_url": "",
+              "title": "#MYExperience to get 10% off",
+              "subTitle": "Share your experience using",
+              "CustomBannerImage": "",
+              "LogoImage": "https://cloud.tagbox.com/uploaded/https://cloud.tagbox.com/react-app/media/banner/logo_bnr-2.svg"
+       },
+       "BannerImage": {
+              "image": "https://cloud.tagbox.com/media/1630329/2138986/banner/e42b54d2df0a486bb7de555b3e84b1b6.jpg",
+              "status": 0
+       },
+       "Personalization": {
+              "id": 304054,
+              "onsite_settings": "{\"display\":\"\",\"widget\":{\"onsite_btn_icon\":\"\",\"onsite_qr_code_status\":1,\"onsite_qr_code_btn_text\":\"Scan To Share\",\"onsite_font_varient_btn\":\"\",\"onsite_popup_title\":\"\",\"onsite_popup_sub_heading\":\"Upload your post to get featured on the feed\",\"onsite_css_font_btn\":\"\",\"onsite_thank_fontSize\":16,\"onsite_title\":\"\",\"onsite_desc\":\"\",\"onsite_overlay_title\":\"\",\"onsite_bg_image\":\"\",\"onsite_url_barcode\":\"\",\"onsite_overlay_height\":\"\",\"onsite_overlay_poisition\":\"\",\"onsite_succ_msg\":\"Thanks for the submission. Your post will live on the website after approval.\",\"onsite_status\":1,\"onsite_btn_txt\":\"\",\"onsite_btn_color\":\"#000000\",\"onsite_btn_txt_color\":\"#fff\",\"onsite_terms_url\":\"\",\"onsite_txt_css_font\":\"\",\"onsite_logo\":\"https://cloud.tagbox.com/react-app/media/images/tagembed-logo.svg\",\"onsite_background_image\":\"\",\"onsite_background_color\":\"#ffffff\",\"onsite_page_url\":\"\",\"choose_content_category\":1,\"onsite_bg_color\":\"\",\"onsite_txt_color\":\"\",\"onsite_txt_font_variation\":\"\",\"onsite_txt_font\":\"\",\"onsite_txt_font_size\":\"\",\"onsite_button_status\":0,\"onsite_popup_btn_txt\":\"Submit post\",\"onsite_moderation\":1,\"onsite_qrcode_img\":\"https://cloud.tagbox.com/media/1630329/2138986/onsiteuploader/barcode/2138986-1732182627-onsite-barcode.jpg\",\"onsite_email_logo\":\"\",\"onsite_language\":\"\",\"onsite_link_font_btn\":\"\",\"btn_fontSize\":16,\"onsite_popup_url\":\"https://test.taggbox.com/embed-widget/w/2138986?onsite-upload=true\",\"onsite_term_url\":\"https://tagembed.com/review-hub-content-rights/\",\"onsite_thank_txt_color\":\"#000000\",\"onsite_link_font_msg\":\"Default\",\"onsite_css_font_msg\":\"Default\",\"onsite_font_varient_msg\":\"\",\"onsite_snap_layout\":1}}",
+              "autoScrollStatus": 0,
+              "autoUpdate": 1,
+              "retweetexclude": 0,
+              "wallId": 2138986,
+              "w_language": "",
+              "widgetTheme": 79,
+              "signageTheme": 58,
+              "themeType": 1,
+              "loadMoreStatus": 0,
+              "mobilePopup": 1,
+              "minimumPostWidth": 300,
+              "cssStatus": 0,
+              "css": "",
+              "filterStatus": 0,
+              "demoWall": 0,
+              "filter_type": 2,
+              "loader_type": 6,
+              "loader_colors": "",
+              "textDecorate": 0,
+              "textDecorateStatus": 0,
+              "carouselPost": 1,
+              "duplicatePostId": 1,
+              "tag_filter": "",
+              "tag_filter_status": 0,
+              "trimcontent": 1,
+              "trimContentStatus": 1,
+              "popupSlideShowStatus": 0,
+              "autoScroll": 0,
+              "postTime": 1,
+              "padding": 8,
+              "postAuthor": 1,
+              "postText": 0,
+              "randomizePost": 0,
+              "showHideOlderPost": 0,
+              "showHideOldPost": 1,
+              "feeds": "",
+              "hashtag_highlight": 0,
+              "fitRow": 1,
+              "columnCount": 5,
+              "hashtag_color": "#000000",
+              "hashtag_feed": 0,
+              "hashtag_all": 0,
+              "hashtag_background_color": "#d3d3d3",
+              "hashtag_background_status": 0,
+              "blurEffect": 0,
+              "postFeatured": 1,
+              "postFeaturedStatus": 0,
+              "filterEnableStatus": 0,
+              "popupSlideShow": 1,
+              "custom_lan_data": "",
+              "publicAccess": 0,
+              "customUrl": "",
+              "interactive": 0,
+              "cta": {
+                     "status": 0,
+                     "color": "#FFFFFF",
+                     "background": "#000000",
+                     "url": "",
+                     "text": ""
+              }
+       },
+       "ThemeRule": {
+              "id": 646844,
+              "iconType": 505,
+              "backgroundColor": "#ffffff",
+              "numberOfPosts": 10,
+              "socialAction": 0,
+              "font": 4,
+              "link_font": "",
+              "css_font": "",
+              "font_varient": "",
+              "fontSize": 14,
+              "cardColor": "#fafafa",
+              "authorColor": "#000000",
+              "fontColor": "#000000",
+              "iconColor": "#3b3c36",
+              "blurBackground": 1,
+              "blurColor": "",
+              "shareOption": 0,
+              "hideContent": 0,
+              "numberOfCoumn": 0,
+              "transparent": 1,
+              "slidePost": 0,
+              "slideDuration": 5,
+              "mobileColumn": 0,
+              "multiRow": 0,
+              "popupContent": 0,
+              "autoPlay": 0,
+              "authorFont": "0",
+              "authorFontVariant": "0",
+              "borderRadius": 0,
+              "captionFontWeight": 0,
+              "CaptionStatus": 0,
+              "linkfontAuthor": "0",
+              "padding": 0,
+              "showHideSocialIcon": 0,
+              "spacing": 0,
+              "themeId": 79,
+              "timeForPopup": 10,
+              "transition": "#2196F3",
+              "transitionStatus": 0,
+              "trimcontent": 1,
+              "inheritStyles": 1,
+              "postTime": 1,
+              "postAuthor": 1,
+              "textAlignment": "center",
+              "lineTrim": 5,
+              "aspectImageRatio": 0,
+              "cardPosition": 1,
+              "cardSize": 3,
+              "fontSizeNormal": 14,
+              "fontSizeDecorate": 16,
+              "radius": 0
+       },
+       "User": {
+              "id": 1630329,
+              "createdAt": 1706546036,
+              "emailId": "gajanand.k@taggbox.com",
+              "name": "Gajanand",
+              "referePage": "direct",
+              "referePageLink": "direct",
+              "plan_exceed": 1,
+              "extra_data": "{\"skip_onboarding\":true,\"wall_created\":true,\"walkthrough\":true,\"step\":true,\"moderation\":true,\"moderation_step\":true,\"created_feed\":true,\"is_customize_feed\":true,\"widget_step\":true,\"visitorLimit\":false}",
+              "userDatabaseType": "tagembed"
+       },
+       "UserDetail": {
+              "id": 1178036,
+              "planId": "66",
+              "expiresAt": 1793445642,
+              "createdAt": 1706546059,
+              "activatedAt": 1707132042,
+              "db_table": "post_paid",
+              "manualTags": ""
+       },
+       "UserRule": {
+              "id": 237723,
+              "cdn": 0,
+              "visitorCounter": 0,
+              "branding_lite": 0,
+              "customCss": 1,
+              "on_site_upload": 0,
+              "branding": 0,
+              "collaborator": 3,
+              "download_img": 1,
+              "collaboratorStatus": 1,
+              "api": 1,
+              "cta": 1,
+              "customPost": 1,
+              "studio": 1,
+              "automaticModeration": 1
+       },
+       "UgcSettings": {
+              "onsite_qr_code_btn_text": "Scan To Share",
+              "onsite_btn_color": "#000000",
+              "onsite_btn_txt_color": "#fff",
+              "onsite_link_font_btn": "",
+              "onsite_css_font_btn": "",
+              "onsite_font_varient_btn": "",
+              "btn_fontSize": 16,
+              "onsite_qr_code_status": 1,
+              "onsite_popup_title": "",
+              "onsite_popup_btn_txt": "Submit post",
+              "onsite_popup_sub_heading": "Upload your post to get featured on the feed",
+              "onsite_popup_url": "https://test.taggbox.com/embed-widget/w/2138986?onsite-upload=true",
+              "onsite_term_url": "https://tagembed.com/review-hub-content-rights/",
+              "onsite_succ_msg": "Thanks for the submission. Your post will live on the website after approval.",
+              "onsite_thank_txt_color": "#000000",
+              "onsite_link_font_msg": "Default",
+              "onsite_css_font_msg": "Default",
+              "onsite_font_varient_msg": "",
+              "onsite_thank_fontSize": 16,
+              "onsite_status": 1,
+              "onsite_background_image": "",
+              "onsite_background_color": "#ffffff",
+              "onsite_page_url": "",
+              "onsite_logo": "https://cloud.tagbox.com/react-app/media/images/tagembed-logo.svg",
+              "choose_content_category": 1,
+              "onsite_button_status": 0,
+              "onsite_moderation": 1,
+              "onsite_qrcode_img": "https://cloud.tagbox.com/media/1630329/2138986/onsiteuploader/barcode/2138986-1732182627-onsite-barcode.jpg",
+              "onsite_email_logo": "",
+              "onsite_language": "",
+              "onsite_snap_layout": 1
+       }
+}
+
+"reviews": {
+       "reviewList": [
+              {
+                     "rating": 5,
+                     "count": 0
+              },
+              {
+                     "rating": 4,
+                     "count": 0
+              },
+              {
+                     "rating": 3,
+                     "count": 0
+              },
+              {
+                     "rating": 2,
+                     "count": 0
+              },
+              {
+                     "rating": 1,
+                     "count": 0
+              }
+       ],
+       "reviewDetails": {
+              "totalReviewGiven": 0,
+              "avgRating": 0
+       }
+}
