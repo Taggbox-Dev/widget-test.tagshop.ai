@@ -227,7 +227,7 @@
               "CatalogueTitle": {
                      "fontLink": "Poppins",
                      "font": "Poppins",
-                     "varient": "600",
+                     "variant": "600",
                      "size": 25,
                      "color": "#ff00bb",
                      "text": "Featured Product",
@@ -236,21 +236,21 @@
               "ProductTitle": {
                      "fontLink": "Inter",
                      "font": "Inter",
-                     "varient": "regular",
+                     "variant": "regular",
                      "size": 16,
                      "color": "#000000"
               },
               "Price": {
                      "fontLink": "Open+Sans",
                      "font": "Open Sans",
-                     "varient": "regular",
+                     "variant": "regular",
                      "size": 18,
                      "color": "#313030"
               },
               "Button": {
                      "fontLink": "Racing+Sans+One",
                      "font": "Racing Sans One",
-                     "varient": "500",
+                     "variant": "500",
                      "size": 15,
                      "background": "#313030",
                      "color": "#ffffff",
@@ -273,7 +273,7 @@
                      "style": {
                             "fontLink": "Open+Sans",
                             "font": "Open Sans",
-                            "varient": "regular",
+                            "variant": "regular",
                             "size": 18,
                             "color": "#FFFFFF",
                             "background": "#534454"
