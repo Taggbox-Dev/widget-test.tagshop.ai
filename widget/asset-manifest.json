@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://widget-test.tagshop.ai/widget/static/css/main.e47f3578.css",
-    "main.js": "https://widget-test.tagshop.ai/widget/static/js/main.177c2db5.js",
-    "static/js/7848.600e0b51.chunk.js": "https://widget-test.tagshop.ai/widget/static/js/7848.600e0b51.chunk.js",
+    "main.js": "https://widget-test.tagshop.ai/widget/static/js/main.707b5374.js",
+    "static/js/7848.09aaf879.chunk.js": "https://widget-test.tagshop.ai/widget/static/js/7848.09aaf879.chunk.js",
     "static/css/9598.d1a72a0d.chunk.css": "https://widget-test.tagshop.ai/widget/static/css/9598.d1a72a0d.chunk.css",
     "static/js/9598.cadcb145.chunk.js": "https://widget-test.tagshop.ai/widget/static/js/9598.cadcb145.chunk.js",
     "static/js/4033.dd864529.chunk.js": "https://widget-test.tagshop.ai/widget/static/js/4033.dd864529.chunk.js",
@@ -180,8 +180,8 @@
     "index.html": "https://widget-test.tagshop.ai/widget/index.html",
     "static/media/index.cjs": "https://widget-test.tagshop.ai/widget/static/media/index.f6d03137e8c9dd0de04c.cjs",
     "main.e47f3578.css.map": "https://widget-test.tagshop.ai/widget/static/css/main.e47f3578.css.map",
-    "main.177c2db5.js.map": "https://widget-test.tagshop.ai/widget/static/js/main.177c2db5.js.map",
-    "7848.600e0b51.chunk.js.map": "https://widget-test.tagshop.ai/widget/static/js/7848.600e0b51.chunk.js.map",
+    "main.707b5374.js.map": "https://widget-test.tagshop.ai/widget/static/js/main.707b5374.js.map",
+    "7848.09aaf879.chunk.js.map": "https://widget-test.tagshop.ai/widget/static/js/7848.09aaf879.chunk.js.map",
     "9598.d1a72a0d.chunk.css.map": "https://widget-test.tagshop.ai/widget/static/css/9598.d1a72a0d.chunk.css.map",
     "9598.cadcb145.chunk.js.map": "https://widget-test.tagshop.ai/widget/static/js/9598.cadcb145.chunk.js.map",
     "4033.dd864529.chunk.js.map": "https://widget-test.tagshop.ai/widget/static/js/4033.dd864529.chunk.js.map",
@@ -359,6 +359,6 @@
   },
   "entrypoints": [
     "static/css/main.e47f3578.css",
-    "static/js/main.177c2db5.js"
+    "static/js/main.707b5374.js"
   ]
 }
