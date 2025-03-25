@@ -30,12 +30,30 @@
     <link rel="preconnect" href="https://api.taggbox.com" defer="defer" />
     <link rel="preconnect" href="https://cdn.taggbox.com" defer="defer" />
     <script></script>
+    <script>
+      let messageSent = !1;
+      if (window.location.href.includes("editor") && !messageSent) {
+        const e = { url: window.location.href };
+        window.parent.postMessage(
+          { type: "tokenRequest", data: JSON.stringify(e) },
+          "*"
+        ),
+          (messageSent = !0);
+      }
+      window.addEventListener("message", (e) => {
+        if (e?.data && "tokenReceived" == e?.data?.type) {
+          const { token: t } = JSON.parse(e?.data?.data) || {};
+          localStorage.getItem("token") !== t &&
+            localStorage.setItem("token", t);
+        }
+      });
+    </script>
     <script
       defer="defer"
-      src="https://widget-test.tagshop.ai/widget/static/js/main.b32d8d6b.js"
+      src="https://widget-test.tagshop.ai/widget/static/js/main.83dd852d.js"
     ></script>
     <link
-      href="https://widget-test.tagshop.ai/widget/static/css/main.e47f3578.css"
+      href="https://widget-test.tagshop.ai/widget/static/css/main.5ba5cf09.css"
       rel="stylesheet"
     />
   </head>
