@@ -42,18 +42,20 @@
       }
       window.addEventListener("message", (e) => {
         if (e?.data && "tokenReceived" == e?.data?.type) {
-          const { token: t } = JSON.parse(e?.data?.data) || {};
-          localStorage.getItem("token") !== (t.token ? t.token : t) &&
-            localStorage.setItem("token", t.token ? t.token : t);
+          const { token: t } = JSON.parse(e?.data?.data) || {},
+            o = t.token ? t.token : t;
+          console.log(o, "getTokengetTokengetToken"),
+            localStorage.getItem("token") !== o &&
+              localStorage.setItem("token", t.token ? t.token : t);
         }
       });
     </script>
     <script
       defer="defer"
-      src="https://widget-test.tagshop.ai/widget/static/js/main.ab7b1a86.js"
+      src="https://widget-test.tagshop.ai/widget/static/js/main.4a618a8e.js"
     ></script>
     <link
-      href="https://widget-test.tagshop.ai/widget/static/css/main.5ba5cf09.css"
+      href="https://widget-test.tagshop.ai/widget/static/css/main.767738e4.css"
       rel="stylesheet"
     />
   </head>
