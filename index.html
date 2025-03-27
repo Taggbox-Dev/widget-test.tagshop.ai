@@ -43,7 +43,7 @@
       window.addEventListener("message", (e) => {
         if (e?.data && "tokenReceived" == e?.data?.type) {
           const { token: t } = JSON.parse(e?.data?.data) || {};
-          (localStorage.getItem("token") !== t.token ? t.token : t) &&
+          localStorage.getItem("token") !== (t.token ? t.token : t) &&
             localStorage.setItem("token", t.token ? t.token : t);
         }
       });
