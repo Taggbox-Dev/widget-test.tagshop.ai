@@ -34,33 +34,24 @@
       let messageSent = !1;
       if (window.location.href.includes("editor") && !messageSent) {
         const e = { url: window.location.href };
-        console.log(e, "getTokengetTokengetToken-evemt-111111"),
-          window.parent.postMessage(
-            { type: "tokenRequest", data: JSON.stringify(e) },
-            "*"
-          ),
+        window.parent.postMessage(
+          { type: "tokenRequest", data: JSON.stringify(e) },
+          "*"
+        ),
           (messageSent = !0);
       }
       window.addEventListener("message", (e) => {
-        if (
-          (console.log(
-            localStorage.getItem("token"),
-            "getTokengetTokengetToken-evemt",
-            e?.data?.type
-          ),
-          e?.data && "tokenReceived" == e?.data?.type)
-        ) {
+        if (e?.data && "tokenReceived" == e?.data?.type) {
           const { token: t } = JSON.parse(e?.data?.data) || {},
-            o = t.token ? t.token : t;
-          console.log(o, "getTokengetTokengetToken"),
-            localStorage.getItem("token") !== o &&
-              localStorage.setItem("token", o);
+            a = t.token ? t.token : t;
+          localStorage.getItem("token") !== a &&
+            localStorage.setItem("token", a);
         }
       });
     </script>
     <script
       defer="defer"
-      src="https://widget-test.tagshop.ai/widget/static/js/main.bb273cce.js"
+      src="https://widget-test.tagshop.ai/widget/static/js/main.594f2ab6.js"
     ></script>
     <link
       href="https://widget-test.tagshop.ai/widget/static/css/main.767738e4.css"
