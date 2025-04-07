@@ -1,1 +1,0 @@
-//!this.state.loadData && this.updatepost(0) 
